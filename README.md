@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Leonardo Ebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoEbert&show_icons=true&theme=blue_navy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoEbert)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **leonardoEbert/leonardoEbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
