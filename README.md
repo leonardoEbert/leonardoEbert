@@ -25,9 +25,9 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoEbert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My most recent repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=instagram-clone)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=rails-erp)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker)](https://github.com/leonardoEbert/fortune-maker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=instagram-clone)](https://github.com/leonardoEbert/instagram-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=rails-erp)](https://github.com/leonardoEbert/rails-erp)
 
 
 ## Nowadays
