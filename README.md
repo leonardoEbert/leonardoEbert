@@ -26,6 +26,7 @@
 
 ## My most recent repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker)](https://github.com/leonardoEbert/fortune-maker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker-front)](https://github.com/leonardoEbert/fortune-maker-front)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=instagram-clone)](https://github.com/leonardoEbert/instagram-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=rails-erp)](https://github.com/leonardoEbert/rails-erp)
 
@@ -36,6 +37,7 @@
     - TypeScript
     - TypeORM
     - Unit tests
+    - VueJS 3
 
   
 ## Contact
