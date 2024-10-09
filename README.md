@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/leonardo-ebert" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:leoebert19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://primal.net/p/npub1t400vpa6fxkrfa2sn427xxpc9q4nx4dpacekggej8nxurzlqgalqt2u5zy" target="_blank">
-  <img src="https://primal.net/icons/icon-512x512.png" alt="Primal Logo" style="width: 30px; height: 30px;">
+  <img src="https://primal.net/assets/logo_ice-a42417b6.svg" alt="Primal Logo" style="width: 30px; height: 30px;">
   Primal Profile(Nostr)
 </a>
 
