@@ -20,15 +20,15 @@
 </div>
 
 ## My Stats
-![Leonardo Ebert's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoEbert&show_icons=true&theme=blue_navy)
+![Leonardo Ebert's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=leonardoEbert&show_icons=true&theme=blue_navy)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoEbert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=leonardoEbert&layout=compact&theme=blue_navy)](https://github.com/leonardoEbert)
 
 ## My most recent repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker)](https://github.com/leonardoEbert/fortune-maker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker-front)](https://github.com/leonardoEbert/fortune-maker-front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=instagram-clone)](https://github.com/leonardoEbert/instagram-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leonardoEbert&repo=rails-erp)](https://github.com/leonardoEbert/rails-erp)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker&theme=blue_navy)](https://github.com/leonardoEbert/fortune-maker)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=leonardoEbert&repo=fortune-maker-front&theme=blue_navy)](https://github.com/leonardoEbert/fortune-maker-front)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=leonardoEbert&repo=instagram-clone&theme=blue_navy)](https://github.com/leonardoEbert/instagram-clone)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=leonardoEbert&repo=rails-erp&theme=blue_navy)](https://github.com/leonardoEbert/rails-erp)
 
 
 ## Nowadays
